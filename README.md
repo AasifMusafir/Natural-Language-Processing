@@ -1,7 +1,7 @@
 # 🧠 Natural Language Processing (NLP) — From Basics to Advanced
 
 Welcome to my **NLP Learning & Practice Repository** 🚀  
-This repository documents my journey of learning **Natural Language Processing**, starting from fundamentals and progressing toward **advanced NLP techniques and real-world applications**.
+This repository documents my journey of learning **Natural Language Processing**,starting from fundamentals and progressing toward **advanced NLP techniques and real-world applications**.
 
 ---
 
@@ -18,7 +18,7 @@ This repository documents my journey of learning **Natural Language Processing**
 ## 📚 NLP Learning Roadmap
 
 ### 🟢 Basics of NLP
-- What is NLP?
+- What is NLP?what are its uses
 - Text Preprocessing
   - Tokenization
   - Lowercasing
